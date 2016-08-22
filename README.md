@@ -36,7 +36,7 @@ _Special Assignment, US multi-site refresh and retrofit project_
 Appointed to direct and lead a team during a multi-site customer workstation refresh project to replace 1500 laptops, perform software upgrades on 2000 systems, at 90+ US locations in 16 weeks. Worked with client IT team to develop procedures and documentation. Compiled and delivered status reports to client.
 
 _Site Technical Lead_, August 1997 - July 2000
-Led customer site deskside support team for 1800 seats. Handled third-level support, escalations, special projects and executive support. Created a web-based personnel availability and tracking system, improving SLA attainment, and enabling multi-site consolidation of queue management staff. Recognized for managing high-visibility project, leading a technical team of 20+ employees to complete a 500+ workstation move and refresh within a three-day weekend.
+Led customer site deskside support team for 1800 seats. Handled third-level support, escalations, special projects and executive support. Created a web-based personnel availability and tracking system, improving SLA attainment, and enabling multi-site consolidation of queue management staff. Recognized for managing high-visibility project, leading a technical team of 20+ employees to complete a 500+ workstation move and refresh over a three-day weekend.
 
 _Customer Support Representative_, May 1996 - August 1997
 Performed problem resolution and deskside support. Created web-hosted digital-paging interface, reducing infrastructure costs and improving ticket time-to-respond metrics. Assisted team lead with status and financial reporting.
@@ -54,10 +54,14 @@ _Python Programming Certificate_, 24 CEUs, June 2014
 _Database Administration Certificate_, 30 CEUs, June 2014
 _Client-Side Programming Certificate_, 18 CEUs, June 2014
 **Johns Hopkins University/Coursera**
-_Data Science Specialization Certificate_, Beginning July 2014
+_Data Science Specialization Certificate_, (Completed 2 of 7 modules)
+* The Data Scientist's Toolbox
+* R Programming
+**(boot) Coding School**
+_Fullstack Web Developer_, September 2016
 
 # SKILLS
-Business Intelligence: Cognos Report Studio, Framework Manager; Database: RDBMS, MS Access, MySQL, Oracle SQLPlus, SQL, MDX, ad hoc reporting, report development, data warehouse, TalenD Open Studio, QMF Workstation, XML DTD, XSL;
-Web: HTML, CSS, JavaScript, AJAX, PHP, ASP;
-Programming: Python, Java, ANSI C, Software Engineering -- requirement analysis, modeling; Scripting -- WSH/VBScript, Visual Basic for Applications (MS Office -- Word, Excel automation)
+Fullstack Web: nodejs, jade, expressjs, mongodb, mongoose, Bootstrap, Foundation, ES5, Django, Flask, HTML/CSS, PHP
+BI: Cognos (Report Studio, Framework Manager); Database: RDBMS, NoSQL, MongoDB, Postgres, MS Access, MySQL, Oracle SQLPlus, SQL, MDX, ad hoc reporting, report development, data warehousing, TalenD Open Studio, QMF Workstation, XML DTD, XSL;
+Programming: Python, JavaScript, Java, ANSI C, Software Engineering (requirement analysis, modeling); Scripting(Powershell, WSH/VBScript, Visual Basic for Applications [Word, Excel automation])
 Technical writing/training: instructional documentation, screencasting
