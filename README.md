@@ -4,10 +4,10 @@ Joel Garza
 Email: joel.garza@gmail.com
 
 # OBJECTIVE
-Fullstack web development, Business intelligence application development or reporting,  employing data science techniques/technologies/tools.
+Fullstack web development, analytics and reporting, employing data science techniques/technologies/tools.
 
 # SUMMARY
-Enthusiastic and motivated analytical professional applying technical and business skills with a passion for customer service. Demonstrated continuous personal development, exploring new technologies, combining both formal academic and self-study, and sharing knowledge with others through training and mentoring.
+Enthusiastic and motivated analytical professional applying technical and business skills with a passion for customer service. Demonstrates continuous personal development, exploring new technologies, combining both formal academic and self-study, and sharing knowledge with others through training and mentoring.
 
 # EMPLOYMENT
 **Advance Digital Systems** -- Fairfax, Virginia
